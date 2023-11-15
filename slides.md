@@ -81,43 +81,74 @@ git clone https://github.com/FournyP/Tailwind-Bootstrap-course.git
 
 ---
 
+# Exemple
+
+### **Bootstrap**
+
+---
+
+![w:600](https://i.ibb.co/48Y8X28/bootstrap-tp-example.png)
+
+---
+
+# Exemple
+
+### **Tailwind**
+
+---
+
+![w:800](https://i.ibb.co/WF6M5Th/tailwind-tp-example.png)
+
+---
+
 ## TP 1
 
-##### Créer en **Tailwind** puis en **Bootstrap** une carte de profil:
+##### Créer en **Bootstrap** puis en **Tailwind** une carte de profil:
 
 - Une image de profil
 - Un nom
 - Une brève description
-- Icônes de réseaux sociaux
+
+`💡 Voir la classe "card" chez Bootstrap`
 
 ---
 
 ## TP 1 - Résultat attendu
 
+![w:350](https://i.ibb.co/413Fznt/tp1.png)
+
 ---
 
 ## TP 2
 
-##### Créer en **Tailwind** puis en **Bootstrap** un formulaire de connexion:
+##### Créer en **Bootstrap** puis en **Tailwind** un formulaire de connexion:
 
 - Un login
 - Un mot de passe
 - Un bouton de connexion
 
+`💡 Regarder la documentation Bootstrap "forms"`
+
 ---
 
 ## TP 2 - Résultat attendu
+
+![w:800](https://i.ibb.co/JdgwxRn/tp2.png)
 
 ---
 
 ## TP 3
 
-##### Créer en **Tailwind** puis en **Bootstrap** une barre de navigation :
+##### Créer en **Bootstrap** puis en **Tailwind** une barre de navigation :
 
 - Un logo
 - Un menu
 - Un bouton de connexion
 
+`💡 Regarder la documentation Bootstrap "navbar"`
+
 ---
 
 ## TP 3 - Résultat attendu
+
+![w:1100](https://i.ibb.co/RyCCnvx/tp3.png)

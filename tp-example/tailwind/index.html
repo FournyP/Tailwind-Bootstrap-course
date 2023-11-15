@@ -8,11 +8,35 @@
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body>
-    <div class="container mx-auto">
-      <h1 class="text-3xl font-bold underline">
-        Bienvenue sur la page Tailwind
-      </h1>
-      <p class="mt-3">Ceci est un exemple simple utilisant Tailwind CSS.</p>
+    <div class="mx-16 mt-10">
+      <h3 class="text-3xl font-medium">Liste de tâches:</h3>
+      <hr class="my-6" />
+      <table class="w-full">
+        <thead>
+          <tr class="border-b">
+            <th class="py-2" scope="col">#</th>
+            <th class="py-2" scope="col">Nom</th>
+            <th class="py-2" scope="col">Difficulté</th>
+            <th class="py-2" scope="col">Priorité</th>
+            <th class="py-2" scope="col">Actions</th>
+          </tr>
+        </thead>
+        <tbody class="w-100">
+          <tr class="py-2 border-b">
+            <th class="px-2" scope="row">1</th>
+            <td class="py-2">Faire le TP 1</td>
+            <td class="py-2">Facile</td>
+            <td class="py-2">Haute</td>
+            <td class="py-2">
+              <div
+                class="w-fit bg-red-600 rounded-md text-white py-1.5 px-3 cursor-pointer"
+              >
+                Supprimer
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </body>
 </html>

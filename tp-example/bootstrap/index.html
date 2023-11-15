@@ -14,9 +14,49 @@
     />
   </head>
   <body>
-    <div class="container">
-      <h1>Bienvenue sur la page Bootstrap</h1>
-      <p>Ceci est un exemple simple utilisant Bootstrap.</p>
+    <div class="container mt-5">
+      <h3>Liste de tâches:</h3>
+      <hr />
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nom</th>
+            <th scope="col">Difficulté</th>
+            <th scope="col">Priorité</th>
+            <th scope="col">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>Faire le TP 1</td>
+            <td>Facile</td>
+            <td>Haute</td>
+            <td>
+              <div class="btn btn-danger">Supprimer</div>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Faire le TP 2</td>
+            <td>Moyen</td>
+            <td>Moyen</td>
+            <td>
+              <div class="btn btn-danger">Supprimer</div>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Faire le TP 3</td>
+            <td>Haute</td>
+            <td>Faible</td>
+            <td>
+              <div class="btn btn-danger">Supprimer</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </body>
 </html>
