@@ -63,7 +63,53 @@ class:
 
 ---
 
+# Comparaison
+
+### **Bootstrap** & **Tailwind**
+
+---
+
 ![w:900](https://i.ibb.co/HnQn37k/DALL-E-Tailwind-VS-Bootstrap.png)
+
+---
+
+# Exemple
+
+### **Bootstrap**
+
+🔗 : https://getbootstrap.com/docs/5.3/examples
+
+---
+
+![w:600](https://i.ibb.co/48Y8X28/bootstrap-tp-example.png)
+
+---
+
+![w:1000](https://i.ibb.co/qF2bN61/pricing-bootstrap.png)
+
+---
+
+![w:1000](https://i.ibb.co/vvxVqJW/dashboard-bootstrap.png)
+
+---
+
+# Exemple
+
+### **Tailwind**
+
+🔗 : https://tailwindcss.com/showcase/openai
+
+---
+
+![w:800](https://i.ibb.co/WF6M5Th/tailwind-tp-example.png)
+
+---
+
+![w:1000](https://i.ibb.co/b3fq9RN/candylove-tailwind.png)
+
+---
+
+![w:1000](https://i.ibb.co/T24tmwC/openai-tailwind.png)
 
 ---
 
@@ -78,26 +124,6 @@ git clone https://github.com/FournyP/Tailwind-Bootstrap-course.git
 ###### Documentation de Tailwind : https://tailwindcss.com/docs
 
 ###### Documentation de Bootstrap : https://getbootstrap.com/docs
-
----
-
-# Exemple
-
-### **Bootstrap**
-
----
-
-![w:600](https://i.ibb.co/48Y8X28/bootstrap-tp-example.png)
-
----
-
-# Exemple
-
-### **Tailwind**
-
----
-
-![w:800](https://i.ibb.co/WF6M5Th/tailwind-tp-example.png)
 
 ---
 
