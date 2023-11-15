@@ -81,10 +81,6 @@ class:
 
 ---
 
-![w:600](https://i.ibb.co/48Y8X28/bootstrap-tp-example.png)
-
----
-
 ![w:1000](https://i.ibb.co/qF2bN61/pricing-bootstrap.png)
 
 ---
@@ -101,15 +97,55 @@ class:
 
 ---
 
-![w:800](https://i.ibb.co/WF6M5Th/tailwind-tp-example.png)
-
----
-
 ![w:1000](https://i.ibb.co/b3fq9RN/candylove-tailwind.png)
 
 ---
 
 ![w:1000](https://i.ibb.co/T24tmwC/openai-tailwind.png)
+
+---
+
+# Comparaison de code
+
+## Entre **CSS**, **Bootstrap** et **Tailwind**
+
+---
+
+# Comparaison de code
+
+## **CSS**
+
+---
+
+![w:700](https://i.ibb.co/gFmYKq7/html.png)
+
+---
+
+![w:400](https://i.ibb.co/w6bMn66/css-1.png)
+
+---
+
+![w:400](https://i.ibb.co/tmVHLqC/css-2.png)
+
+---
+
+# Comparaison de code
+
+## **Bootstrap**
+
+---
+
+![w:700](https://i.ibb.co/Fzj3sbd/bootstrap-tp-example.png)
+
+---
+
+# Comparaison de code
+
+## **Tailwind**
+
+---
+
+![w:600](https://i.ibb.co/n60C1rS/tailwind-tp-example.png)
 
 ---
 
